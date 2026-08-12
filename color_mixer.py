@@ -18,7 +18,7 @@ while True:
         mix = colors[(color1, color2)]
 
     if mix:
-        print(f"When you mic {color1} and {color2}, you get {mix}!")
+        print(f"When you mix {color1} and {color2}, you get {mix}!")
     else:
         print("I don't know what those colors make when mixed")
 
